@@ -8,7 +8,7 @@ MODULE_LICENSE("Dual BSD/GPL");
 static int hello_init(void)
 {
 	printk(KERN_ALERT "Hello, world\n");
-	printk(KERN_ALERT "Github: ECEN5013\n");
+	printk(KERN_ALERT "Github: atharvanan1\n");
 	return 0;
 }
 
